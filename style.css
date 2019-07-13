@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: #e3491d;
+}
+
+.form {
+    margin-top: 40px;
+    text-align: center;
+    padding: 0px;
+}
+
+.input-box {
+    width: 400px;
+    height: 30px;
+    border: none;
+    font-size: 15px;
+}
+
+.meddelande {
+    width: 400px;
+    height: 200px;
+    border: none;
+    font-size: 15px;
+    overflow: hidden;
+}
+
+.submit-button {
+    width: 100px;
+    height: 30px;
+    border: none;
+    font-size: 15px;
+    background-color: #e3491d;
+    color: white;
+}
